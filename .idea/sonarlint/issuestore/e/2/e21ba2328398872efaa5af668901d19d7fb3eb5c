@@ -1,0 +1,12 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ğ¥şïúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØË–Œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àÚÆéûÿÿÿÿ
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÂ æûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ‹õĞ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÌŞ”
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(†Ï¡¸úÿÿÿÿ
+C
+java:S1905!"(Remove this unnecessary cast to "float".(†Ï¡¸úÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(íã¡Îÿÿÿÿÿ
